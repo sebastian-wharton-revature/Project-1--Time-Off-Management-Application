@@ -2,7 +2,7 @@
 
 ## Project Description
 
-We are tasked with creating a Microsoft Dynamics 365 CRM Canvas application in which users inside of an organization would have the ability to request Time Off. The Time Off Application houses a variety of reasons and various balances for each predefined term of leave. This leave request then needed an approval by a Manager figure either through the automated email that is sent when a request is submitted, or when the manager logs into the application. Users can log in to a current account or register for an account. User then have a profile page they can access and change all aspect of their profile that includes a profile photo and excludes changing their department and job title. Time Off Leaves are calculated dynamically and updated in real-time through the application and stored onto the database on the back end through SharePoint. 
+The assignment was to create a Canvas Power App that allows employees and managers to create an account, sign in to their account, and communicate with other members of the organization. All records are stored in a sharepoint list database and of course all fields have required validation. Employees accrue paid time off which is calculated at a different rate for each department. Emplyees specify a reason for their request and a department manager to send their request to. Once the request is submitted, the specified manager will automatically receive an email in which they are given the option to approve or deny the request. That specific manager can also handle requests from their account. Whether the request is approved or denied, the requester will receive an email notifying them of the request status. The request status is also viewable from their account
 
 ## Technologies Used
 
